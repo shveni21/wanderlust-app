@@ -52,6 +52,7 @@ This project focuses on creating a responsive, user-friendly interface while int
 ---
 
 ## Project Structure
+```
 wanderlust-app/
 │
 ├─ models/ # Mongoose schemas
@@ -67,3 +68,15 @@ wanderlust-app/
 ├─ package.json
 ├─ .env # Environment variables
 └─ README.md
+```
+
+## Future Improvements
+
+Booking system integration
+
+Advanced search and filtering options
+
+
+## Author
+
+Shveni Reddy Gobbur
