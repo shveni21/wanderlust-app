@@ -66,13 +66,9 @@ wanderlust-app/
 
 ## Future Improvements
 
-User authentication & account management
-
 Booking system integration
 
 Advanced search and filtering options
-
-Reviews & ratings for listings
 
 ## Author
 
