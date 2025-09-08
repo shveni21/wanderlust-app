@@ -52,4 +52,18 @@ This project focuses on creating a responsive, user-friendly interface while int
 ---
 
 ## Project Structure
-
+wanderlust-app/
+│
+├─ models/ # Mongoose schemas
+│ └─ listing.js
+│
+├─ data/ # Sample listings data
+│ └─ data.js
+│
+├─ routes/ # Express routes
+│ └─ listings.js
+│
+├─ index.js # Entry point & DB connection
+├─ package.json
+├─ .env # Environment variables
+└─ README.md
