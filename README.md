@@ -1,5 +1,9 @@
 # Wanderlust App
 
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)](https://render.com/)
+
 [Live Project Link](https://wanderlust-app-dk2l.onrender.com/listings)
 
 ---
@@ -48,22 +52,4 @@ This project focuses on creating a responsive, user-friendly interface while int
 ---
 
 ## Project Structure
-wanderlust-app/
-│
-├─ models/
-├─ data/
-├─ routes/
-├─ index.js
-├─ package.json
-└─ README.md   ← (create this file if it doesn’t exist)
 
-
-## Future Improvements
-
-Booking system integration
-
-Advanced search and filtering options
-
-## Author
-
-Shveni Reddy Gobbur
