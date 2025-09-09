@@ -17,9 +17,11 @@ This project focuses on creating a responsive, user-friendly interface while int
 
 ## Features
 - Browse vacation listings with images, descriptions, price, and location.
-- Filter and search listings by location or country.
+- Perform full **CRUD operations** (Create, Read, Update, Delete) on listings.
+- Designed with the **MVC (Model-View-Controller)** architecture for better scalability and maintainability.
 - Fully connected to a cloud database for dynamic data retrieval.
 - Responsive UI for desktop and mobile devices.
+
 
 ---
 
